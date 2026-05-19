@@ -33,8 +33,8 @@
 ## Featured Projects
 
 - [AI Smart Pricing System](https://github.com/Utkarsh3725/AI-SmartPrizing-System-)
-- Add your next best project here
-- Add another portfolio project here
+- [Medi Scan AI](https://github.com/Utkarsh3725/medi-scan-ai-app)
+- [End-to-End Project](https://github.com/Utkarsh3725/end-to-end-project)
 
 ## GitHub Stats
 
